@@ -1,0 +1,1 @@
+# openCV_background_remover
